@@ -11,6 +11,3 @@ The repository is organized into different directories, each focusing on a speci
 * **Examples**: This directory includes practical examples and applications of data structures and algorithms in action. You'll find code snippets, demos, and explanations showcasing how these concepts are used in real-world scenarios.
 * **Resources**: In this directory, you'll find additional resources, references, and links to external tutorials, articles, and videos that can further enhance your understanding of data structures and algorithms.
 
-## Contact
- * [Twitter](https://www.twitter.com/sakhilelindah) / [Github](https://github.com/sakhi-4096) / [Mail](mailto:sakhilelindah@protonmail.com)
-
